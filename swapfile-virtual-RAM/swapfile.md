@@ -14,9 +14,9 @@ dengan kapasitas yang lebih besar. Namun, alih-alih melakukan upgrade RAM. Pada 
 
 - # Solusi: 
 swapfile adalah program yang tersedia pada ubuntu untuk membuat atau mengelola virtual RAM dengan mengambil sumber daya tersedia pada disk. Namun, dalam kasus ini alangkah baiknya
-perangkat komputer sudah menggunakan SSD sebagai memori storagenya. Sebab jika masih menggunakan Hard-drive akan sangat signifikan sekali perbedaannya dengan native-RAM dari sisi kecepatan untuk jika ia dimanfaatkan sebagai virtual RAM. 
+perangkat komputer sudah menggunakan SSD sebagai memori storagenya. Sebab jika masih menggunakan Hard-drive akan sangat signifikan sekali perbedaannya dengan native-RAM dari sisi kecepatan jika ia dimanfaatkan sebagai virtual RAM. 
 
-Adapun untuk langkah-langkah untuk menjalankan cara ini saya sertakan link dibawah ini:
+Adapun langkah-langkah untuk menjalankan methode swapfile saya sertakan linknya dibawah ini:
 
 https://www.addictivetips.com/ubuntu-linux-tips/ubuntu-increase-swap-guide/
 
